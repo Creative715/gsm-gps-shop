@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /category/view.html
+Disallow: /cart/view
+Disallow: /cart/add
+Disallow: /images/
+Disallow: /yii2images/
